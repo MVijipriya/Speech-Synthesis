@@ -1,3 +1,3 @@
-# HELLO
+# HELLO WORLD
 
-Hi Everyone
+VijiPriya here, I like Web technologies and also interested in developing mobile applications
