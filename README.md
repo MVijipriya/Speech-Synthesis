@@ -1,3 +1,1 @@
-# HELLO WORLD
-
-VijiPriya here, I like Web technologies and also interested in developing mobile applications
+Here it contains the html and javascript program for developing Speech Synthesis web application
